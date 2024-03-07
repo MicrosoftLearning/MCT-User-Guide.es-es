@@ -1,23 +1,23 @@
-﻿# Incidencias
+# Incidencias
 
-Cuando crea una incidencia o comenta una solicitud de extracción o confirmación, también puede incluir otros usuarios o equipos de GitHub en la conversación. Para ello, realice una **mención** de ellos en el cuerpo del comentario. Si tiene conocimientos de los servicios de redes sociales, esta característica le resultará familiar.
+Siempre que cree una incidencia, o un comentario sobre una solicitud de cambios o una confirmación, también puede incluir a otros usuarios o equipos de GitHub en la conversación realizando una **mención** de los mismos en el cuerpo del comentario. Si está familiarizado con los servicios de redes sociales, esta característica será muy familiar.
 
 ## Enviar una incidencia
 
-1.	En su explorador, vaya al repo en aplicable en **GitHub**.
+1.  En el explorador, vaya al repositorio aplicable en **GitHub**.
 
-2.	Haga clic en **Issues** y luego en **New issue**.
+2.  Haga clic en **Incidencias** y, después, en **Nueva incidencia**.
 
-3.	En el cuadro de texto **Title**, especifique el título de la incidencia y en el cuadro de texto **Leave a comment**, escriba una descripción de la incidencia o sugerencia.
+3.  En el cuadro de texto **Título**, introduzca el título de la incidencia y, después, en el cuadro de texto **Deje un comentario**, escriba una descripción de la incidencia o sugerencia.
 
-4.	Haga clic en **Submit new issue**.
+4.  Haga clic en **Enviar nueva incidencia**.
 
-## Revisar y comentar una incidencia existente
+## Revisión y comentario de una incidencia existente
 
-1.	En su explorador, vaya al repo en aplicable en **GitHub**.
+1.  En el explorador, vaya al repositorio aplicable en **GitHub**.
 
-2.	Haga clic en **Issues** y seleccione el título de la incidencia que desee revisar.
+2.  Haga clic en **Incidencias** y después seleccione el título de la incidencia que quiera revisar.
 
-3.	En la página **Issue name**, en la pestaña **Write**, en el cuadro de texto **Leave a comment**, escriba su comentario.
+3.  En la página **Nombre de la incidencia**, en la pestaña **Escribir**, en el cuadro de texto **Deje un comentario**, escriba su comentario.
 
-4.	Haga clic en **Comment**.
+4.  Haga clic en **Comment** (Comentar).

@@ -1,5 +1,5 @@
-# Solución de GitHub para los laboratorios de curso de Microsoft Learning
+# Solución de GitHub de Microsoft Learning para laboratorios de cursos
 
-El equipo de Microsoft Learning creó una solución que le permite publicar de manera periódica en GitHub claves de respuesta de laboratorio (LAK) y laboratorios actualizados, así como scripts de laboratorio actualizados. La solución también incluye 
+El equipo de Microsoft Learning ha creado una solución que les permite publicar laboratorios y claves de respuesta de laboratorio (LAK) actualizados y scripts de laboratorio actualizados con regularidad en GitHub. La solución también incluye 
 
-> Disponible próximamente
+> Próximamente
