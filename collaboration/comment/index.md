@@ -1,27 +1,27 @@
-# Crear comentarios
+# Comentarios
 
-Puede comentar sobre solicitudes de extracción y cambios propuestos (confirmaciones) que hagan otros usuarios. Cuando comenta una confirmación, ve una diferencia del origen del archivo y luego puede comentar sobre cambios específicos línea por línea o para toda la confirmación. También puede hacer sugerencias sobre un proyecto global al enviar una incidencia o comentar sobre una incidencia existente.
+Puede comentar las solicitudes de incorporación de cambios y los cambios propuestos (confirmaciones) que realizan otros usuarios. Al comentar una confirmación, verá una diferencia de origen del archivo y después podrá comentar los cambios específicos línea por línea o toda la confirmación. También puede hacer sugerencias sobre un proyecto en general, enviando una incidencia o comentando una incidencia existente.
 
-## Revisar y comentar una solicitud de extracción:
+## Revise y comente una solicitud de cambios:
 
-1.	En su explorador, vaya al repo en aplicable en **GitHub**.
+1.  En el explorador, vaya al repositorio aplicable en **GitHub**.
 
-1.	Haga clic en **Pull requests *n***, donde ***n*** es el número de solicitudes de extracción activas.
+1.  Haga clic en **Solicitudes de incorporación de cambios *n***, donde ***n*** es el número de solicitudes de incorporación de cambios activas.
 
-2.	Seleccione la solicitud de extracción que desea revisar y luego, en la pestaña **Write**, en el cuadro de texto **Leave a comment**, escriba su comentario.
+2.  Seleccione la solicitud de cambios que quiere revisar y, después, en la pestaña **Escribir**, en el cuadro de texto **Dejar un comentario**, introduzca su comentario.
 
-3.	Haga clic en **Comment**.
+3.  Haga clic en **Comment** (Comentar).
 
-## Revisar y comentar una confirmación:
+## Revise y comente una confirmación:
 
-1.	En su explorador, vaya al repo en aplicable en **GitHub**.
+1.  En el explorador, vaya al repositorio aplicable en **GitHub**.
 
-2.	Haga clic en ***n commits**, donde ***n*** es el número de confirmaciones enviadas. Si desea revisar la confirmación más reciente, puede seleccionar de la lista el título o descripción breve de la confirmación.
+2.  Haga clic en ***n confirmaciones**, donde ***n*** es el número de confirmaciones enviadas. Si quiere revisar la última confirmación, puede seleccionar el título o la descripción corta de la confirmación en la lista de archivos.
 
-3.	En la sección **source diff**, seleccione el cambio que desee comentar. Para ello, haga clic en el signo más **(+)** que aparece cuando pasa el ratón sobre el cambio aplicable.
+3.  En la sección **diferencia de origen**, seleccione el cambio sobre el que desea hacer comentarios haciendo clic en el signo más **(+)** que aparece cuando pasa el ratón por encima del cambio aplicable.
 
-4.	En la pestaña **Write**, en el cuadro de texto **Comment**, escriba su comentario.
+4.  En la pestaña **Escribir**, en el cuadro de texto **Comentario**, proporcione el comentario.
 
-5.	Haga clic en **Comment**.
+5.  Haga clic en **Comment** (Comentar).
 
-    > **Nota**: Si desea proporcionar un comentario general para la confirmación, en **n comments on commit**, donde n es el número de comentarios enviados, y luego en la pestaña **Write**, en el cuadro de texto **Leave a comment**, escribe el comentario y haga clic en **Comment on this commit**.
+    > **Nota**: Si desea proporcionar un comentario general sobre la confirmación, en n comentarios sobre confirmación, donde n es el número de comentarios enviados y, a continuación, en la pestaña Escribir, en el cuadro de texto Dejar un comentario, escriba el comentario y Haga clic en Comentario en esta confirmación.
