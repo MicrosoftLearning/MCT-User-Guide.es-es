@@ -1,17 +1,17 @@
-# Seguir a un repo
+# Inspección de un repositorio
 
-La manera más sencilla de asegurarse de estar al corriente de los cambios de un repo es mirándolo. Puede hacerlo, incluso si no clona una copia local del repo.
+La forma más sencilla de asegurarse de que está al corriente de cualquier cambio en un repositorio es inspeccionarlo. Puede hacerlo incluso si no clona una copia local del repositorio.
 
-Para seguir a un repo, realice los pasos siguientes:
+Para inspeccionar un repositorio, realice los siguientes pasos:
 
-1.	En Internet Explorer, vaya al repo en GitHub.
+1.  En Internet Explorer, vaya al repositorio en GitHub.
 
-2.	Haga clic en **Watch**, luego en **Notifications**, seleccione **Watching**.
+2.  Haga clic en **Inspección** y, a continuación, en **Notificaciones**, seleccione **Inspeccionando**.
 
-Para dejar de seguir a un repo, realice los pasos siguientes:
+Para dejar de inspeccionar un repositorio, realice los siguientes pasos:
 
-1.	En Internet Explorer, vaya al repo en GitHub.
+1.  En Internet Explorer, vaya al repositorio en GitHub.
 
-2.	Haga clic en **Watch**, luego en Notifications, seleccione **Not watching**.
+2.  Haga clic en **Inspección** y, a continuación, en Notificaciones, seleccione **No inspeccionando**.
 
-> **Nota**: Puede seleccionar la opción **Ignoring** de la lista desplegable **Watch**. Sin embargo, esto significa que no recibirá notificaciones, incluso si otro usuario lo incluye en una conversación con la funcionalidad de mención y el nombre de usuario. Por lo tanto, tenga cuidado a la hora de configurar la opción **Ignoring**.
+> **Nota**: Puede seleccionar la opción **Ignorar** en la lista desplegable **Inspección**. Sin embargo, esto significa que no recibirá ninguna notificación, incluso si otro usuario le incluye en una discusión con la función de mención y su nombre de usuario de GitHub. Por lo tanto, debe tener cuidado de configurar la opción **Ignorar**.

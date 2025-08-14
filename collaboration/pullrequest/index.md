@@ -1,71 +1,71 @@
 # Sugerir cambios y colaborar en un repo
 
-En GitHub, es muy fácil colaborar con otros usuarios de Microsoft Learning en los cursos de su interés. 
+GitHub facilita la colaboración con otros usuarios de Microsoft Learning en los cursos en los que está interesado. 
 
-Puede modificar su propia copia del material del laboratorio y luego enviar sus cambios a Microsoft Learning para que se puedan incorporar las actualizaciones. Quizás quiera modificar el material del laboratorio por los siguientes motivos:
+Puede modificar su propia copia de los materiales del laboratorio y, a continuación, enviar los cambios a Microsoft Learning para que puedan incorporar las actualizaciones. Es posible que desee modificar los materiales del laboratorio si:
 
-- Encuentra un error en un laboratorio. 
+- Encuentre un error en un laboratorio. 
 
-- La interfaz de usuario ha cambiado desde la creación del laboratorio. 
+- La interfaz de usuario ha cambiado desde que se creó el laboratorio. 
 
 - Cree que el laboratorio necesita mejoras o modificaciones.
 
-Para modificar el material del laboratorio, debería crear una rama del repo, realizar las actualizaciones en su rama y luego enviar una solicitud de extracción a la rama principal (maestra). De este modo, el personal de Microsoft Learning y otros MCT y usuarios de GitHub puede revisar y comentar los cambios. 
+Para modificar los materiales de laboratorio, debe bifurcar el repositorio, realizar actualizaciones en la rama y, a continuación, enviar una solicitud de incorporación de cambios a la rama principal (maestra). Esto permite al personal de Microsoft Learning y a otros usuarios de MCT y GitHub revisar y comentar los cambios. 
 
-Puede revisar y comentar los cambios que hagan otros usuarios, y el personal de Microsoft Learning luego los aprobará y combinará en la rama maestra. Esta acción notifica a cualquier usuario que esté siguiendo al repo que se produjo un cambio.
+Puede revisar y comentar los cambios que realicen otros usuarios y, a continuación, el personal de Microsoft Learning aprueba y combina estos cambios en la rama maestra. Esta acción notifica a cualquier usuario que esté viendo el repositorio que se ha producido un cambio.
 
-## Crear una rama de repo
+## Creación de un repo
 
-1.	En Internet Explorer, vaya al repo en GitHub.
+1.  En Internet Explorer, vaya al repo en GitHub.
 
-1.	Haga clic en **Branch: nombre de la rama** y luego, en la lista **Branches**, seleccione la rama que quiera copiar.
+1.  Haga clic en **Rama: branchname**y, a continuación, en la lista**Ramas**, seleccione la rama que desea copiar.
 
-    > **Nota**:	Si hay una sola rama, en la lista desplegable **Branch** se muestra **Branch: master** y la única rama disponible es **master**.
+    > **Nota**: Si sólo hay una rama, la lista desplegable **Rama** muestra **Rama: master**, y la única rama que está disponible es **master**.
 
-3.	En el cuadro de texto vacío, escriba el nombre de la rama que desee crear.
+3.  En el cuadro de texto en blanco, escriba el nombre de la rama que desea crear.
 
-4.	Haga clic en **Create branch: new branch name** cuando aparezca.
+4.  Haga clic en **Crear rama: nuevo nombre**de rama cuando aparezca.
 
-Después de crear una rama, puede clonar los archivos en el repo local, actualizarlos en su PC y luego insertar los cambios desde GitHub Desktop. Si trabaja con Markdown u otros archivo de texto, puede editarlos en GitHub y luego insertar los cambios en línea.
+Después de crear una rama, puede clonar los archivos en el repositorio local, actualizarlos en el equipo y, a continuación, proteger los cambios desde el escritorio de GitHub. Si está trabajando con Markdown u otros archivos de texto, puede editarlos en GitHub y, a continuación, proteger los cambios en línea.
 
-## Eliminar una rama de repo
+## Eliminación de una rama de repositorio
 
-1.	En Internet Explorer, vaya al repo en GitHub.
+1.  En Internet Explorer, vaya al repo en GitHub.
 
-2.	Haga clic en ***n* branches**, donde ***n*** es el número de ramas existentes.
+2.  Haga clic en ***n* ramas**, donde ***n*** es el número de ramas existentes.
 
-3.	En la página **Branches**, en la fila de la rama que quiere eliminar, haga clic en el icono **Delete this branch**.
+3.  En la página **Ramas**, en la fila de la rama que desea eliminar, haga clic en **Eliminar este icono de rama**.
 
-## Confirmar los cambios mediante GitHub Desktop:
+## Confirmación de cambios mediante GitHub Desktop:
 
-1.	Abre **GitHub Desktop**.
+1.  Abra **GitHub Desktop**.
 
-2.	Seleccione el repo que contiene los cambios y luego haga clic en **Changes**.
+2.  Seleccione el repositorio que contiene los cambios y haga clic en **Cambios**.
 
-3.	Seleccione los cambios que desee confirmar y luego, en el cuadro de texto **Summary**, escriba una descripción breve del cambio.
+3.  Seleccione los cambios que desea confirmar y, a continuación, en el cuadro de texto **Resumen**, escriba una breve descripción del cambio.
 
-4.	En el campo **Description**, escriba una descripción más detallada del cambio, si fuera necesario.
+4.  En el cuadro de texto **Descripción**, escriba una descripción más detallada del cambio, si es necesario.
 
-5.	Haga clic en **Commit to master** y luego en **Sync** para insertar los cambios locales en el repo en línea.
+5.  Haga clic en **Confirmar en master** y, a continuación, haga clic en **Sincronización** para insertar los cambios locales en el repositorio en línea.
 
-## Edite los archivos y confirme los cambios en el repo en línea:
+## Edite archivos y confirme los cambios en el repositorio en línea:
 
-1.	En su explorador, vaya al repositorio aplicable en **GitHub** y seleccione el archivo que quiera editar.
+1.  En el explorador, vaya al repositorio aplicable en **GitHub** y, a continuación, seleccione el archivo que desea editar.
 
-2.	Haga clic en el icono **Edit this file**.
+2.  Haga clic en el icono **Editar este archivo**.
 
-3.	Realice los cambios en la pestaña **Edit file** de la página web y luego haga clic en **Preview changes** para ver los cambios propuestos, sin confirmarlos.
+3.  Realice los cambios en la pestaña **Editar archivo** de la página web y, a continuación, haga clic en **Vista previa de los cambios** para ver los cambios propuestos, sin confirmarlos.
 
-4.	En **Commit changes**, en el cuadro de texto **Update *nombre de archivo***, escriba una descripción breve de los cambios.
+4.  En **Confirmar cambios**, en el cuadro de texto ** Actualizar*nombre de archivo***, escriba una breve descripción de los cambios.
 
-5.	En el cuadro de texto **Add an optional extended description...**, escriba una descripción más detallada del cambio, si fuera necesario, y luego haga clic en **Commit changes**.
+5.  En el **Agregar una descripción extendida opcional...** cuadro de texto, escriba una descripción más detallada del cambio, si es necesario, y haga clic en **Confirmar cambios**.
 
-## Crear una solicitud de extracción:
+## Crear una solicitud de incorporación de cambios:
 
-1.	En su explorador, vaya al repositorio en aplicable en **GitHub**.
+1.  En el explorador, vaya al repositorio aplicable en **GitHub**.
 
-2.	Haga clic en **Branch: nombre de la rama** y luego, en la lista **Branches**, seleccione la rama para la que desee crear una solicitud de extracción.
+2.  Haga clic en **Branch:branchname** y, a continuación, en la lista **Ramas**, seleccione la rama para la que desea crear una solicitud de incorporación de cambios.
 
-3.	Haga clic en **New pull request** y luego, en la página **Open a pull request**, en el cuadro de texto **Title**, actualice el nombre de la solicitud de extracción, si fuera necesario.
+3.  Haga clic en **Nueva solicitud** de incorporación de cambios y, a continuación, en la página **Abrir una solicitud de incorporación de cambios**, en el cuadro de texto **Título**, actualice el nombre de la solicitud de incorporación de cambios, si es necesario.
 
-4.	En la pestaña **Write**, en el cuadro de texto **Leave a comment**, escriba una descripción del cambio propuesto y luego haga clic en **Create pull request**.
+4.  En la pestaña **Escribir**, en el cuadro de texto **Dejar un comentario**, proporcione una descripción del cambio propuesto y, a continuación, haga clic en **Crear solicitud de incorporación de cambios**.
